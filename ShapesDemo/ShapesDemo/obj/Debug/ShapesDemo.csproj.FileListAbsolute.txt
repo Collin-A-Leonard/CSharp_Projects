@@ -1,0 +1,7 @@
+G:\SCHOOL\C#\Week 11 (11-4-20)\Ch. 10 Exercises\ShapesDemo\ShapesDemo\obj\Debug\ShapesDemo.csprojAssemblyReference.cache
+G:\SCHOOL\C#\Week 11 (11-4-20)\Ch. 10 Exercises\ShapesDemo\ShapesDemo\obj\Debug\ShapesDemo.csproj.CoreCompileInputs.cache
+G:\SCHOOL\C#\Week 11 (11-4-20)\Ch. 10 Exercises\ShapesDemo\ShapesDemo\bin\Debug\ShapesDemo.exe.config
+G:\SCHOOL\C#\Week 11 (11-4-20)\Ch. 10 Exercises\ShapesDemo\ShapesDemo\bin\Debug\ShapesDemo.exe
+G:\SCHOOL\C#\Week 11 (11-4-20)\Ch. 10 Exercises\ShapesDemo\ShapesDemo\bin\Debug\ShapesDemo.pdb
+G:\SCHOOL\C#\Week 11 (11-4-20)\Ch. 10 Exercises\ShapesDemo\ShapesDemo\obj\Debug\ShapesDemo.exe
+G:\SCHOOL\C#\Week 11 (11-4-20)\Ch. 10 Exercises\ShapesDemo\ShapesDemo\obj\Debug\ShapesDemo.pdb

@@ -1,0 +1,7 @@
+G:\SCHOOL\C#\Week 14 (11-23-20)\Ch. 14 Exercises\WritePatientRecords\WritePatientRecords\bin\Debug\WritePatientRecords.exe.config
+G:\SCHOOL\C#\Week 14 (11-23-20)\Ch. 14 Exercises\WritePatientRecords\WritePatientRecords\bin\Debug\WritePatientRecords.exe
+G:\SCHOOL\C#\Week 14 (11-23-20)\Ch. 14 Exercises\WritePatientRecords\WritePatientRecords\bin\Debug\WritePatientRecords.pdb
+G:\SCHOOL\C#\Week 14 (11-23-20)\Ch. 14 Exercises\WritePatientRecords\WritePatientRecords\obj\Debug\WritePatientRecords.csprojAssemblyReference.cache
+G:\SCHOOL\C#\Week 14 (11-23-20)\Ch. 14 Exercises\WritePatientRecords\WritePatientRecords\obj\Debug\WritePatientRecords.csproj.CoreCompileInputs.cache
+G:\SCHOOL\C#\Week 14 (11-23-20)\Ch. 14 Exercises\WritePatientRecords\WritePatientRecords\obj\Debug\WritePatientRecords.exe
+G:\SCHOOL\C#\Week 14 (11-23-20)\Ch. 14 Exercises\WritePatientRecords\WritePatientRecords\obj\Debug\WritePatientRecords.pdb

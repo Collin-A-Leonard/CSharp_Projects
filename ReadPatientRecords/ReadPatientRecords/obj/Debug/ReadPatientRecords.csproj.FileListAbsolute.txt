@@ -1,0 +1,7 @@
+G:\SCHOOL\C#\Week 14 (11-23-20)\Ch. 14 Exercises\ReadPatientRecords\ReadPatientRecords\bin\Debug\ReadPatientRecords.exe.config
+G:\SCHOOL\C#\Week 14 (11-23-20)\Ch. 14 Exercises\ReadPatientRecords\ReadPatientRecords\bin\Debug\ReadPatientRecords.exe
+G:\SCHOOL\C#\Week 14 (11-23-20)\Ch. 14 Exercises\ReadPatientRecords\ReadPatientRecords\bin\Debug\ReadPatientRecords.pdb
+G:\SCHOOL\C#\Week 14 (11-23-20)\Ch. 14 Exercises\ReadPatientRecords\ReadPatientRecords\obj\Debug\ReadPatientRecords.csprojAssemblyReference.cache
+G:\SCHOOL\C#\Week 14 (11-23-20)\Ch. 14 Exercises\ReadPatientRecords\ReadPatientRecords\obj\Debug\ReadPatientRecords.csproj.CoreCompileInputs.cache
+G:\SCHOOL\C#\Week 14 (11-23-20)\Ch. 14 Exercises\ReadPatientRecords\ReadPatientRecords\obj\Debug\ReadPatientRecords.exe
+G:\SCHOOL\C#\Week 14 (11-23-20)\Ch. 14 Exercises\ReadPatientRecords\ReadPatientRecords\obj\Debug\ReadPatientRecords.pdb

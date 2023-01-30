@@ -1,0 +1,7 @@
+G:\SCHOOL\C#\Week 15 (12-1-20)\Review Exercises\SubscriptExceptionTest\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.exe.config
+G:\SCHOOL\C#\Week 15 (12-1-20)\Review Exercises\SubscriptExceptionTest\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.exe
+G:\SCHOOL\C#\Week 15 (12-1-20)\Review Exercises\SubscriptExceptionTest\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.pdb
+G:\SCHOOL\C#\Week 15 (12-1-20)\Review Exercises\SubscriptExceptionTest\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.csprojAssemblyReference.cache
+G:\SCHOOL\C#\Week 15 (12-1-20)\Review Exercises\SubscriptExceptionTest\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.csproj.CoreCompileInputs.cache
+G:\SCHOOL\C#\Week 15 (12-1-20)\Review Exercises\SubscriptExceptionTest\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.exe
+G:\SCHOOL\C#\Week 15 (12-1-20)\Review Exercises\SubscriptExceptionTest\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.pdb
