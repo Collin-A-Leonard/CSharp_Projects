@@ -1,0 +1,7 @@
+G:\SCHOOL\C#\Week 7 (10-7-20)\Ch. 7 Exercises\FlexibleArrayMethod\FlexibleArrayMethod\bin\Debug\FlexibleArrayMethod.exe.config
+G:\SCHOOL\C#\Week 7 (10-7-20)\Ch. 7 Exercises\FlexibleArrayMethod\FlexibleArrayMethod\bin\Debug\FlexibleArrayMethod.exe
+G:\SCHOOL\C#\Week 7 (10-7-20)\Ch. 7 Exercises\FlexibleArrayMethod\FlexibleArrayMethod\bin\Debug\FlexibleArrayMethod.pdb
+G:\SCHOOL\C#\Week 7 (10-7-20)\Ch. 7 Exercises\FlexibleArrayMethod\FlexibleArrayMethod\obj\Debug\FlexibleArrayMethod.csprojAssemblyReference.cache
+G:\SCHOOL\C#\Week 7 (10-7-20)\Ch. 7 Exercises\FlexibleArrayMethod\FlexibleArrayMethod\obj\Debug\FlexibleArrayMethod.csproj.CoreCompileInputs.cache
+G:\SCHOOL\C#\Week 7 (10-7-20)\Ch. 7 Exercises\FlexibleArrayMethod\FlexibleArrayMethod\obj\Debug\FlexibleArrayMethod.exe
+G:\SCHOOL\C#\Week 7 (10-7-20)\Ch. 7 Exercises\FlexibleArrayMethod\FlexibleArrayMethod\obj\Debug\FlexibleArrayMethod.pdb

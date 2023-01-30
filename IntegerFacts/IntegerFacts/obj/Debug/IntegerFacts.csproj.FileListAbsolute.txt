@@ -1,0 +1,7 @@
+G:\SCHOOL\C#\Week 9 (10-21-20)\Ch. 8 Exercises\IntegerFacts\IntegerFacts\bin\Debug\IntegerFacts.exe.config
+G:\SCHOOL\C#\Week 9 (10-21-20)\Ch. 8 Exercises\IntegerFacts\IntegerFacts\bin\Debug\IntegerFacts.exe
+G:\SCHOOL\C#\Week 9 (10-21-20)\Ch. 8 Exercises\IntegerFacts\IntegerFacts\bin\Debug\IntegerFacts.pdb
+G:\SCHOOL\C#\Week 9 (10-21-20)\Ch. 8 Exercises\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.csprojAssemblyReference.cache
+G:\SCHOOL\C#\Week 9 (10-21-20)\Ch. 8 Exercises\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.csproj.CoreCompileInputs.cache
+G:\SCHOOL\C#\Week 9 (10-21-20)\Ch. 8 Exercises\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.exe
+G:\SCHOOL\C#\Week 9 (10-21-20)\Ch. 8 Exercises\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.pdb

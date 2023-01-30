@@ -1,0 +1,7 @@
+G:\SCHOOL\C#\Week 12 (11-11-20)\Ch. 11 Exercises\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.exe.config
+G:\SCHOOL\C#\Week 12 (11-11-20)\Ch. 11 Exercises\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.exe
+G:\SCHOOL\C#\Week 12 (11-11-20)\Ch. 11 Exercises\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.pdb
+G:\SCHOOL\C#\Week 12 (11-11-20)\Ch. 11 Exercises\FindSquareRoot\FindSquareRoot\obj\Debug\FindSquareRoot.csprojAssemblyReference.cache
+G:\SCHOOL\C#\Week 12 (11-11-20)\Ch. 11 Exercises\FindSquareRoot\FindSquareRoot\obj\Debug\FindSquareRoot.csproj.CoreCompileInputs.cache
+G:\SCHOOL\C#\Week 12 (11-11-20)\Ch. 11 Exercises\FindSquareRoot\FindSquareRoot\obj\Debug\FindSquareRoot.exe
+G:\SCHOOL\C#\Week 12 (11-11-20)\Ch. 11 Exercises\FindSquareRoot\FindSquareRoot\obj\Debug\FindSquareRoot.pdb

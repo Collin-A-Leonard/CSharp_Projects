@@ -1,0 +1,3 @@
+87,Collin Leonard,34.58
+76,John Johnson,4879.98
+45,Samantha Green,358.47
