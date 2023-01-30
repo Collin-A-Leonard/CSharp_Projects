@@ -1,0 +1,7 @@
+G:\SCHOOL\C#\Week 10 (10-28-20)\Ch. 9 Exercises\CarDemo\CarDemo\bin\Debug\CarDemo.exe.config
+G:\SCHOOL\C#\Week 10 (10-28-20)\Ch. 9 Exercises\CarDemo\CarDemo\bin\Debug\CarDemo.exe
+G:\SCHOOL\C#\Week 10 (10-28-20)\Ch. 9 Exercises\CarDemo\CarDemo\bin\Debug\CarDemo.pdb
+G:\SCHOOL\C#\Week 10 (10-28-20)\Ch. 9 Exercises\CarDemo\CarDemo\obj\Debug\CarDemo.csprojAssemblyReference.cache
+G:\SCHOOL\C#\Week 10 (10-28-20)\Ch. 9 Exercises\CarDemo\CarDemo\obj\Debug\CarDemo.csproj.CoreCompileInputs.cache
+G:\SCHOOL\C#\Week 10 (10-28-20)\Ch. 9 Exercises\CarDemo\CarDemo\obj\Debug\CarDemo.exe
+G:\SCHOOL\C#\Week 10 (10-28-20)\Ch. 9 Exercises\CarDemo\CarDemo\obj\Debug\CarDemo.pdb

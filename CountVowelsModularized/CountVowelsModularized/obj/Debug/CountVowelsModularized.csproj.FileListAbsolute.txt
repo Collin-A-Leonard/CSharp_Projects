@@ -1,0 +1,7 @@
+G:\SCHOOL\C#\Week 7 (10-7-20)\Ch. 7 Exercises\CountVowelsModularized\CountVowelsModularized\bin\Debug\CountVowelsModularized.exe.config
+G:\SCHOOL\C#\Week 7 (10-7-20)\Ch. 7 Exercises\CountVowelsModularized\CountVowelsModularized\bin\Debug\CountVowelsModularized.exe
+G:\SCHOOL\C#\Week 7 (10-7-20)\Ch. 7 Exercises\CountVowelsModularized\CountVowelsModularized\bin\Debug\CountVowelsModularized.pdb
+G:\SCHOOL\C#\Week 7 (10-7-20)\Ch. 7 Exercises\CountVowelsModularized\CountVowelsModularized\obj\Debug\CountVowelsModularized.csprojAssemblyReference.cache
+G:\SCHOOL\C#\Week 7 (10-7-20)\Ch. 7 Exercises\CountVowelsModularized\CountVowelsModularized\obj\Debug\CountVowelsModularized.csproj.CoreCompileInputs.cache
+G:\SCHOOL\C#\Week 7 (10-7-20)\Ch. 7 Exercises\CountVowelsModularized\CountVowelsModularized\obj\Debug\CountVowelsModularized.exe
+G:\SCHOOL\C#\Week 7 (10-7-20)\Ch. 7 Exercises\CountVowelsModularized\CountVowelsModularized\obj\Debug\CountVowelsModularized.pdb

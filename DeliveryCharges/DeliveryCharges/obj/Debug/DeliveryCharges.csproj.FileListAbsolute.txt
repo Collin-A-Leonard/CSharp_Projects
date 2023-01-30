@@ -1,0 +1,7 @@
+G:\SCHOOL\C#\Week 8 (10-14-20)\Review Exercises\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.csprojAssemblyReference.cache
+G:\SCHOOL\C#\Week 8 (10-14-20)\Review Exercises\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.csproj.CoreCompileInputs.cache
+G:\SCHOOL\C#\Week 8 (10-14-20)\Review Exercises\DeliveryCharges\DeliveryCharges\bin\Debug\DeliveryCharges.exe.config
+G:\SCHOOL\C#\Week 8 (10-14-20)\Review Exercises\DeliveryCharges\DeliveryCharges\bin\Debug\DeliveryCharges.exe
+G:\SCHOOL\C#\Week 8 (10-14-20)\Review Exercises\DeliveryCharges\DeliveryCharges\bin\Debug\DeliveryCharges.pdb
+G:\SCHOOL\C#\Week 8 (10-14-20)\Review Exercises\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.exe
+G:\SCHOOL\C#\Week 8 (10-14-20)\Review Exercises\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.pdb

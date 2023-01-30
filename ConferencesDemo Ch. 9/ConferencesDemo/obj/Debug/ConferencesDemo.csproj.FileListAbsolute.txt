@@ -1,0 +1,7 @@
+G:\SCHOOL\C#\Week 15 (12-1-20)\Review Exercises\ConferencesDemo\ConferencesDemo\bin\Debug\ConferencesDemo.exe.config
+G:\SCHOOL\C#\Week 15 (12-1-20)\Review Exercises\ConferencesDemo\ConferencesDemo\bin\Debug\ConferencesDemo.exe
+G:\SCHOOL\C#\Week 15 (12-1-20)\Review Exercises\ConferencesDemo\ConferencesDemo\bin\Debug\ConferencesDemo.pdb
+G:\SCHOOL\C#\Week 15 (12-1-20)\Review Exercises\ConferencesDemo\ConferencesDemo\obj\Debug\ConferencesDemo.csprojAssemblyReference.cache
+G:\SCHOOL\C#\Week 15 (12-1-20)\Review Exercises\ConferencesDemo\ConferencesDemo\obj\Debug\ConferencesDemo.csproj.CoreCompileInputs.cache
+G:\SCHOOL\C#\Week 15 (12-1-20)\Review Exercises\ConferencesDemo\ConferencesDemo\obj\Debug\ConferencesDemo.exe
+G:\SCHOOL\C#\Week 15 (12-1-20)\Review Exercises\ConferencesDemo\ConferencesDemo\obj\Debug\ConferencesDemo.pdb
